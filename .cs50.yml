@@ -4,6 +4,6 @@ lab50:
     - readme
     - terminal
   files:
-    - !include hello.c
-    - !include hi.h
-    - !include folderTest/holaAdentro.c
+    - !include foo/bar.c
+    - !include foo/bar.h
+
